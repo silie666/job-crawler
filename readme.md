@@ -48,3 +48,9 @@
 ```
 go run main.go
 ```
+
+## 具体效果如下
+![image](https://github.com/silie666/job-crawler/assets/38691833/a5b86e63-374b-4b60-8da0-c5e45fa94086)
+![image](https://github.com/silie666/job-crawler/assets/38691833/775aeef4-b80d-4c5a-b903-e7dc44a18645)
+
+
