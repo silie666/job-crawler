@@ -337,7 +337,6 @@ func wyJob(db *leveldb.DB, userAgent string) {
 	}
 
 	wyJobClient := req.C().
-		EnableDebugLog().
 		SetUserAgent(userAgent).
 		SetTLSFingerprintChrome()
 	wyJobRequest := wyJobClient.R().
